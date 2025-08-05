@@ -14,8 +14,6 @@ Iframe Link: *https://www.hackerrank.com/certificates/iframe/ba77b5eb99ad*
 ---
 
 ## 📁 Repository Structure
-📁 hackerrank-python-basic-certification
-  📄 README.md
-  📁 solutions/
-    - question1_solution.py: first question's solution
-    - question2_solution.py: second question's solution
+hackerrank-python-basic-certification/ │ ├── README.md └── solutions/ ├── question1_solution.py # First question's solution └── question2_solution.py # Second question's solution
+
+
